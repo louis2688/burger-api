@@ -2,8 +2,8 @@
 My Burger Api
 
 ### Setup locally 
-  **npm i**  
-  **npm start**
+ > **npm i**  
+ > **npm start**
 
 ### This is sample burger API 
 
