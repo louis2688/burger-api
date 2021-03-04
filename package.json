@@ -1,0 +1,22 @@
+{
+  "name": "burger-api",
+  "version": "1.0.0",
+  "description": "My Burger Api",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/louis2688/burger-api.git"
+  },
+  "author": "Louis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/louis2688/burger-api/issues"
+  },
+  "homepage": "https://github.com/louis2688/burger-api#readme",
+  "dependencies": {
+    "json-server": "^0.16.3"
+  }
+}
